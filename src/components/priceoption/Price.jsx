@@ -47,7 +47,6 @@ const Price = () => {
           ]
         }
       ]
-
     return (
         <div className="m-12">
             <h2 className="text-5xl">Best prices in town</h2>
